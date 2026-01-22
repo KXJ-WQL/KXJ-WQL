@@ -47,7 +47,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KXJ-WQL&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![use language](https://github-readme-stats.vercel.app/api/top-langs/?username=KXJ-WQL&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXJ-WQL&langs_count=8&theme=radical&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
 </a>

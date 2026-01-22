@@ -26,47 +26,27 @@
 ### 🔧 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=CoffeeScript&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=JavaScript&logoColor=white)
-
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
-
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
-
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-192133?style=flat-square&logo=ElasticSearch&logoColor=white)
-
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-192133?style=flat-square&logo=RabbitMQ&logoColor=white)
-
 ![Tomcat](https://img.shields.io/badge/-Tomcat-192133?style=flat-square&logo=Apache%20Tomcat&logoColor=white)
-
 ![Spring](https://img.shields.io/badge/-Spring-192133?style=flat-square&logo=Spring&logoColor=white)
-
 ![Springboot](https://img.shields.io/badge/-Springboot-192133?style=flat-square&logo=Springboot&logoColor=white)
-
 ![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-192133?style=flat-square&logo=SpringSecurity&logoColor=white)
-
 ![Swagger](https://img.shields.io/badge/-Swagger-192133?style=flat-square&logo=Swagger&logoColor=white)
-
 ![Vue](https://img.shields.io/badge/-Vue-192133?style=flat-square&logo=vue.js&logoColor=white)
-
 ![NodeJs](https://img.shields.io/badge/-NodeJs-192133?style=flat-square&logo=Node.js&logoColor=white)![Webpack](https://img.shields.io/badge/-Webpack-192133?style=flat-square&logo=webpack&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/-Docker-192133?style=flat-square&logo=Docker&logoColor=white)
-
 ![ContOS](https://img.shields.io/badge/-ContOS-192133?style=flat-square&logo=centos&logoColor=white)
-
 ![Nginx](https://img.shields.io/badge/-Nginx-192133?style=flat-square&logo=nginx&logoColor=white)
-
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
-
 ![......](https://img.shields.io/badge/-......-192133?style=flat-square&logo=...&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KXJ-WQL&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KXJ-WQL&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🐱‍👓空想家+(●'◡'●)+You+are+welcome+to+come;‍👓空想家+(●'◡'●)+You+are+welcome+to+come)](https://git.io/typing-svg)

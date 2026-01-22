@@ -49,7 +49,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KXJ-WQL&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KXJ-WQL&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1532C0&center=true&vCenter=true&width=435&lines=%F0%9F%90%B1%E2%80%8D%F0%9F%91%93%E7%A9%BA%E6%83%B3%E5%AE%B6%2B(%E2%97%8F'%E2%97%A1'%E2%97%8F)%2BYou%2Bare%2Bwelcome%2Bto%2Bcome;%F0%9F%91%93%E7%A9%BA%E6%83%B3%E5%AE%B6%2B(%E2%97%8F'%E2%97%A1'%E2%97%8F)%2BYou%2Bare%2Bwelcome%2Bto%2Bcome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?weight=600&pause=1000&color=1532C0&lines=🐱‍👓空想家+(●'◡'●)+You+are+welcome+to+come;‍👓空想家+(●'◡'●)+You+are+welcome+to+come)](https://git.io/typing-svg)
+
 ### I'm a Night 🦉
 
 ```text

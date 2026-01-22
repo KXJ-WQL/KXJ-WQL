@@ -11,6 +11,7 @@
 
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/KXJ-WQL?label=follow&style=social)](https://github.com/KXJ-WQL)
+![](https://komarev.com/ghpvc/?username=KXJ-WQL)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/KXJ-WQL/actions)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/KXJ-WQL/actions)
 

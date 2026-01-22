@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/WQL-KXJ?label=follow&style=social)](https://github.com/WQL-KXJ)
+[![GitHub Thaiane](https://img.shields.io/github/followers/KXJ-WQL?label=follow&style=social)](https://github.com/WQL-KXJ)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/WQL-KXJ/WQL-KXJ/actions)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/WQL-KXJ/WQL-KXJ/actions)
 
@@ -44,10 +44,10 @@
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
 ![......](https://img.shields.io/badge/-......-192133?style=flat-square&logo=...&logoColor=white)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WQL-KXJ&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KXJ-WQL&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WQL-KXJ&langs_count=8&theme=radical&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXJ-WQL&langs_count=8&theme=radical&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
 </a>
 
 ### I'm a Night 🦉

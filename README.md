@@ -49,9 +49,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KXJ-WQL&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KXJ-WQL&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?weight=600&pause=1000&color=1532C0&lines=🐱‍👓空想家+(●'◡'●)+You+are+welcome+to+come;‍👓空想家+(●'◡'●)+You+are+welcome+to+come)](https://git.io/typing-svg)
-
-### I'm a Night 🦉
+[![Typing SVG](https://readme-typing-svg.demolab.com/?weight=800&pause=1000&color=1532C0&lines=🐱‍👓I'm+a+Night+🦉;‍👓I'm+a+Night+🦉)](https://git.io/typing-svg)
 
 ```text
 🌞 Morning    33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 

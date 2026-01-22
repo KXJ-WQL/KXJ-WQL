@@ -5,7 +5,7 @@
 <p>
     <em>
         personal website(个人网站)： <a href="https://wql.luoqin.ltd/">空想家</a>
-        <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+        <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20">
     </em>
 </p>
 

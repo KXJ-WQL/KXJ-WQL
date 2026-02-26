@@ -21,7 +21,7 @@
 - 🧿Desire to develop a high-quality open source project
 - 💬 Ask me about anything tech related, I am happy to help
 
-#### 🎋 The GitHub account at https://github.com/WQL-KXJ/ is my previous account. I lost access to it after enabling two-factor authentication (2FA) and losing the recovery codes. Therefore, I have registered this new account
+##### 🎋 The GitHub account at https://github.com/WQL-KXJ/ is my previous account. I lost access to it after enabling two-factor authentication (2FA) and losing the recovery codes. Therefore, I have registered this new account
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>
     <b>

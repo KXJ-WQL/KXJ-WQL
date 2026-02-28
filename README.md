@@ -1,4 +1,4 @@
-<h2> 🐱‍👓空想家 (●'◡'●) You are welcome to come <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>  🐳空想家 (●'◡'●) You are welcome to come <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" width="400">
 
@@ -55,7 +55,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KXJ-WQL&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KXJ-WQL&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?weight=800&pause=1000&color=1532C0&lines=🐱‍👓I'm+a+Night+🦉;‍👓I'm+a+Night+🦉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?weight=800&pause=1000&color=1532C0&lines=🐬I'm+a+Night+🦉;🐬I'm+a+Night+🦉)](https://git.io/typing-svg)
 
 ```text
 🌞 Morning    33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 
